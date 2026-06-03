@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2614-prime-in-diagonal](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Matrix
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
