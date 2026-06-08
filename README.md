@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Math
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Stack
 |  |
 | ------- |
