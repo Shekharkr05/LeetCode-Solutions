@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0867-transpose-matrix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -16,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2614-prime-in-diagonal](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
