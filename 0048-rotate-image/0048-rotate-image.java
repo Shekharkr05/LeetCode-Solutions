@@ -16,7 +16,7 @@ class Solution {
             mat[i][n-1-j]=temp;
         }
        }
-        System.out.print(Arrays.deepToString(mat));
+        
 
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
