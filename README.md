@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Backtracking
 |  |
