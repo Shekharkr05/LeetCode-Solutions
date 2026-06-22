@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1189-maximum-number-of-balloons](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Backtracking
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Dynamic Programming
 |  |
