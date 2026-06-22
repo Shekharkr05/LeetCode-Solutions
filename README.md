@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0867-transpose-matrix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1732-find-the-highest-altitude](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
