@@ -8,7 +8,8 @@ class Solution {
             if(map.containsKey(i))map.put(i,map.get(i)-1);
         }
         int sum=0;
-        for(char i:map.keySet())if(map.get(i)>0)sum+=map.get(i);
+       // for(char i:map.keySet())if(map.get(i)>0)sum+=map.get(i);
+       for(int i:map.values())if(i>0)sum+=i;
         return sum;
     }
 }
