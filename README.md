@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1732-find-the-highest-altitude](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1302-deepest-leaves-sum](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Trie
+|  |
+| ------- |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
