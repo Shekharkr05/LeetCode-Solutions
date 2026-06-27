@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2405-optimal-partition-of-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3271-hash-divided-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2405-optimal-partition-of-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3527-find-the-most-common-response](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
