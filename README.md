@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1732-find-the-highest-altitude](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2405-optimal-partition-of-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
