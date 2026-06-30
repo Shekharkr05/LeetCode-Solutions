@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1903-largest-odd-number-in-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2614-prime-in-diagonal](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1903-largest-odd-number-in-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Brainteaser
