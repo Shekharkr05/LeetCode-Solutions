@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Simulation
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3941-password-strength](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3941-password-strength) |
