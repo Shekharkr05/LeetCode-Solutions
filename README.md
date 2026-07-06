@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0451-sort-characters-by-frequency](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
