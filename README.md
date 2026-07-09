@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0383-ransom-note](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
