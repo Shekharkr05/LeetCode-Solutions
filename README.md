@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
