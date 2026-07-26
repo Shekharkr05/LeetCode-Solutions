@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
