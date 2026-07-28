@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
