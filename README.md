@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
+| [3731-find-missing-elements](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3731-find-missing-elements](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3527-find-the-most-common-response](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3941-password-strength](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Backtracking
