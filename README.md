@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1331-rank-transform-of-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Bit Manipulation
 |  |
