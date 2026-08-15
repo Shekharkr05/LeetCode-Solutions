@@ -13,39 +13,20 @@
  *     }
  * }
  */
- /*
 class Solution {
-    public ArrayList<Integer> inorderTraversal(TreeNode node) {
-    ArrayList<Integer> list = new ArrayList<>();
-
-    if (node == null) {
-        return list;
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> list=new ArrayList<>();
+         dfsin(list,root);
+         return list;
+        
     }
-
-    list.addAll(inorderTraversal(node.left));
-    list.add(node.val);
-    list.addAll(inorderTraversal(node.right));
-
-    return list;
-
-*/
-
-    class Solution {
-    public ArrayList<Integer> inorderTraversal(TreeNode node) {
-        ArrayList<Integer> list = new ArrayList<>();
-        inorder(node, list);
-        return list;
-    }
-
-    private void inorder(TreeNode node, ArrayList<Integer> list) {
-        if (node == null) {
-            return;
-        }
-
-        inorder(node.left, list);
+    private void dfsin(List<Integer> list,TreeNode node){
+        if(node==null)return;
+        dfsin(list,node.left);
         list.add(node.val);
-        inorder(node.right, list);
+        dfsin(list,node.right);
+
+
+
     }
-
-
 }
