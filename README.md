@@ -469,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
