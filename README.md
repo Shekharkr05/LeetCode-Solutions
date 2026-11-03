@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
