@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1331-rank-transform-of-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Combinatorics
 |  |
@@ -533,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
