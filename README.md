@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2404-most-frequent-even-element](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3731-find-missing-elements](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2404-most-frequent-even-element](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
