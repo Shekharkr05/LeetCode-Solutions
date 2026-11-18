@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2404-most-frequent-even-element](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2404-most-frequent-even-element](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2404-most-frequent-even-element](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3527-find-the-most-common-response](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
