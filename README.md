@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3271-hash-divided-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3527-find-the-most-common-response](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
