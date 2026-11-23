@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1331-rank-transform-of-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1732-find-the-highest-altitude](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -578,4 +581,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1051-height-checker) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
