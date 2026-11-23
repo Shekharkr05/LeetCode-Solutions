@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3210-find-the-encrypted-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3210-find-the-encrypted-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3271-hash-divided-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
