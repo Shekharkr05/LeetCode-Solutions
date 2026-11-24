@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4030-check-ascii-palindromic](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/4030-check-ascii-palindromic) |
 ## Simulation
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [4030-check-ascii-palindromic](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/4030-check-ascii-palindromic) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3941-password-strength](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/3941-password-strength) |
+| [4030-check-ascii-palindromic](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/4030-check-ascii-palindromic) |
 ## Hash Table
 |  |
 | ------- |
