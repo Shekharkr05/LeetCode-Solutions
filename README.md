@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
