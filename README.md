@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Shekharkr05/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
